@@ -4,7 +4,7 @@
   "author": "kaneproject",
   "summary": "Download and install eclipse JEE",
   "license": "Apache 2.0",
-  "source": "",
+  "source": "https://github.com/kaneproject/puppet-eclipse",
   "project_page": null,
   "issues_url": null,
   "dependencies": [
